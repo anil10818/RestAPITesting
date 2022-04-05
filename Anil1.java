@@ -15,7 +15,7 @@ stmt.setString(2,"Ratan");
   
 int i=stmt.executeUpdate();  
 
-System.out.println(i+" records inserted Successfully");  
+System.out.println(i+" records  Successfully");  
   
 con.close();  
   
